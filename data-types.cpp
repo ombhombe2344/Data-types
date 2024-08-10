@@ -1,5 +1,6 @@
 //om bhombe
 //23070123039
+//Aim:Checking Data Type in C++
 #include <string>
 #include <iostream>
 using namespace std;
